@@ -9,4 +9,5 @@ The technologies used in Community Hub include:
 •⁠  ⁠Hosting: Vercel⁠
 
 live url link=https://project-community-frontend.vercel.app/home/index.html
+Youtube video link - https://youtu.be/wAYvvDrd0VE
  
